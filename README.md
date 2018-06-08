@@ -396,6 +396,7 @@ When code is generated from this project, it shall be considered **AS IS** and o
 Here are some companies/projects (alphabetical order) using OpenAPI Generator in production. To add your company/project to the list, please visit [README.md](README.md) and click on the icon to edit the page.
 
 - [Bithost GmbH](https://www.bithost.ch)
+- [b<>com](https://b-com.com/)
 - [GMO Pepabo](https://pepabo.com/en/)
 - [Raiffeisen Schweiz Genossenschaft](https://www.raiffeisen.ch)
 - [REST United](https://restunited.com)
